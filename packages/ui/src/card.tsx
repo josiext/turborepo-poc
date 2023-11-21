@@ -17,6 +17,7 @@ export function Card({
       target="_blank"
     >
       <h2>
+        Cambiando card
         {title} <span>-&gt;</span>
       </h2>
       <p>{children}</p>
